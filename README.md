@@ -1,7 +1,7 @@
 # Zaplab AR
 > This repository is a ARKit playground. Feel free to clone and learn with me.
 
-<hr />
+<br />
 
 <p align="center">
   <img src="https://i.imgur.com/At3OZgO.png" width="30%" alt="First screenshot" />
