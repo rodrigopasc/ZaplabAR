@@ -25,6 +25,7 @@ Detected planes and add objects to the world.
 
 ### Dependencies
 * [Xcode 10](https://developer.apple.com/xcode)
+* A9 (or newer) processor iDevices.
 
 ### Setup
 * Clone: `git clone https://github.com/rodrigopasc/ZaplabAR`
