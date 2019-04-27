@@ -1,12 +1,12 @@
 # Zaplab AR
 > This repository is a ARKit playground. Feel free to clone and learn with me.
 
-<p align="center">
-  <img src="https://i.imgur.com/At3OZgO.png" width="35%" alt="First screenshot" />
-  <img src="https://i.imgur.com/hePkQO9.png" width="35%" alt="Second screenshot" />
-</p>
-
 <hr />
+
+<p align="center">
+  <img src="https://i.imgur.com/At3OZgO.png" width="30%" alt="First screenshot" />
+  <img src="https://i.imgur.com/hePkQO9.png" width="30%" alt="Second screenshot" />
+</p>
 
 ## Preface
 Detected planes and add objects to the world.
