@@ -1,11 +1,10 @@
 # Zaplab AR
+> This repository is a ARKit playground. Feel free to clone and learn with me.
 
 <p align="center">
-  <img src="https://i.imgur.com/At3OZgO.png" width="25%" alt="First screenshot" />
-  <img src="https://i.imgur.com/hePkQO9.png" width="25%" alt="Second screenshot" />
+  <img src="https://i.imgur.com/At3OZgO.png" width="35%" alt="First screenshot" />
+  <img src="https://i.imgur.com/hePkQO9.png" width="35%" alt="Second screenshot" />
 </p>
-
-> This repository is a ARKit playground. Feel free to clone and learn with me.
 
 <hr />
 
