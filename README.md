@@ -1,5 +1,5 @@
 # Zaplab AR
-> This repository is a ARKit playground. Feel free to clone and learn with me.
+> This repository is an ARKit playground. Feel free to clone and learn with me.
 
 <br />
 
